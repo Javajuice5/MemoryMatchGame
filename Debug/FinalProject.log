@@ -1,0 +1,8 @@
+﻿  MemoryMatchGame.cpp
+C:\Users\siddh\source\repos\FinalProject\MemoryMatchGame.cpp(104,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\siddh\source\repos\FinalProject\MemoryMatchGame.cpp(162,22): warning C4018: '>': signed/unsigned mismatch
+  FinalProject.vcxproj -> C:\Users\siddh\source\repos\FinalProject\Debug\FinalProject.exe
